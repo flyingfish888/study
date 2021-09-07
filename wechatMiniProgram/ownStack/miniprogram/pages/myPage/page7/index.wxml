@@ -1,0 +1,3 @@
+<view class="container">
+	<button bindtap="nt8">navigateTo page8</button>
+</view>

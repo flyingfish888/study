@@ -1,0 +1,11 @@
+<view  class="container">
+	<text>页面B</text>
+	<button bind:tap="navigateToC">navigateTo pageC</button>
+	<button bind:tap="redirectToC">redirectTo pageC</button>
+	<button bind:tap="reLaunchToC">reLaunchTo pageC</button>
+
+	<text>--------------------</text>
+
+	<component-1 innerText="pageB"></component-1>
+	<component-2 innerText="pageB"></component-2>
+</view>

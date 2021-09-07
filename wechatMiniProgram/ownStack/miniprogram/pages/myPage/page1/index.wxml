@@ -1,0 +1,4 @@
+<view class="container">
+	<input value="{{input}}" name="input" type="text"/>
+	<button bindtap="nt2">navigateTo page2</button>
+</view>
