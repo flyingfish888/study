@@ -1,4 +1,4 @@
-# Object属性和方法整理
+# Object对象
 
 ### 首先一个是对JS中Object的理解：JavaScript中函数是一等公民，写在代码中的 `Array/Object/String/Number/Function`其实都是一个构造函数，是用来生成相应的数据类型的变量的。
 
